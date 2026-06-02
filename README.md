@@ -1,4 +1,3 @@
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/ed9b7b4d-aebe-4ee3-8771-b2a4fec973ab" /># EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 AIM
